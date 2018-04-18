@@ -1,8 +1,4 @@
-// Bugs:
-// - After placing an item, even if it is sold, the spot on the counter that held the item will still 
-//   have the ability to adjust a price. It does nothing however, it doesn't actually mess with anything
-// - On day 2 the leftmost customer does not stay in place at the counter like he should, but on the 3rd
-//   day it fixes itself. 
+
 
 #include <stdlib.h>
 #include <stdio.h>
